@@ -1,0 +1,42 @@
+.card-redes {
+    background: #414040;
+}
+
+.card-redes .subtitle {
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 1em;
+    color: white;
+}
+
+.card-redes .a {
+    margin-left: 1px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: rgba(255, 255, 255, 0.856);
+    text-decoration: none;
+}
+
+.button {
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600px;
+    font-size: 1em;
+    color: #EDD8D8;
+    background: #000;
+    border-radius: 0px;
+    border: 2px solid #EDD8D8;
+}
+
+.button:hover {
+    color: black;
+    background: #EDD8D8;
+}
+
+.card-contacto .item {
+    font-size: 1em;
+}
